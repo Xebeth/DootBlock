@@ -192,6 +192,7 @@
     <ClInclude Include="Resource.h" />
     <ClInclude Include="stdafx.h" />
     <ClInclude Include="SystemTray.h" />
+    <ClInclude Include="version.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="DootBlock.cpp" />
@@ -206,9 +207,6 @@
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="DootBlock.rc" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="res\DootBlock.rc2" />
   </ItemGroup>
   <ItemGroup>
     <Image Include="res\crying.ico" />
